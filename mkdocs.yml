@@ -1,0 +1,14 @@
+site_name: snappytomato
+repo_url: https://github.com/myedibleenso/snappytomato
+repo_name: GitHub
+
+pages:
+  - Home: index.md
+
+theme: readthedocs
+
+dev_addr: '127.0.0.1:8999'
+
+markdown_extensions:
+  - footnotes
+  - fenced_code
